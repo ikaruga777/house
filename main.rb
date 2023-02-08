@@ -1,5 +1,5 @@
 
-TEMPLATE = <<~EOS
+TEMPLATE = <<~HTML
 <h1>RubyKaigi 2023 宿情報</h1>
 <h2>概要</h2>
 <p><a href="https://twitter.com/UVB_76" target="_blank">@UVB_76</a>が会場のすぐ裏の一戸建てをairbnbで確保しているので一緒に泊まれる人を募集します。</p>
@@ -12,7 +12,7 @@ TEMPLATE = <<~EOS
 <h3>注意</h3>
 <ul><a href="https://rubykaigi.org/2023/covid-19/">RubyKaigi 2023 の COVID-19 に関するポリシー</a>は守ってください。</ul>
 <ul>参加者都合のキャンセルについて返金できない可能性があることをご了承ください。
-EOS
+HTML
 
 require "js"
 require "erb"
