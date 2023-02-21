@@ -1,4 +1,3 @@
-
 TEMPLATE = <<~HTML
 <h1>RubyKaigi 2023 宿情報</h1>
 <h2>概要</h2>
